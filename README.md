@@ -3,3 +3,4 @@ Build a music player using HTML CSS and js. This music player will have all the 
 
 This project is hosted on- https://aritradasit.github.io/Spotify-Clone/
  
+ 
